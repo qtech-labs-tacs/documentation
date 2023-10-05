@@ -42,15 +42,6 @@
 
 <br>
 
-
-#### Array
----
-
-* An array is an indexed collection of fixed number of homogeneous data elements.
-
-<br>
-
-
 #### Array
 ---
 
