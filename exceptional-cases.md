@@ -9,7 +9,7 @@ Unused keywords:
 
 <br>
 
-__NOTE__:  By mistake if we are using these keywords in our program we will get compile time error.
+__NOTE__  By mistake if we are using these keywords in our program we will get compile time error.
 
 
 <br>
