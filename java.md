@@ -15,7 +15,7 @@
 
 <br>
 
-#### Reserver Words
+#### Reserved Words
 ---
 * In java some identifiers are reserved to associate some functionality or meaning such type of __reserved__  __identifiers__ are called reserved words.
 * Reserved words  = Reserved Literal (3) + Keywords (50) = 53 
@@ -138,7 +138,60 @@
 * But from __1.5 version__ onwards we can declare a method with variable no. of arguments such type of methods are called __var-arg__ methods.
 
 
+<br>
 
+---
+
+
+<br>
+
+
+#### Operators
+---
+
+* Increment and Decrement Operators
+* Arithmetic Operators
+* String Concatenation Operator
+* Relational Operatora
+* Equality Operators
+* instanceOf Operator
+* Bitwise Operators
+* Boolean complement Operator
+* Short circuit Operators
+* Type Cast Operator
+* Assignment Operator
+* Conditional Operator
+* new operator
+* new vs newInstance()
+* 
+
+<br>
+
+---
+
+
+<br>
+
+#### topic
+---
+
+* dummy
+
+
+<br>
+
+---
+
+
+<br>
+
+#### topic
+---
+
+* dummy
+
+
+<br>
 
 ---
 
