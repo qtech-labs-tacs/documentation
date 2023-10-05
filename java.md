@@ -39,6 +39,7 @@
 #### Literals
 ---
 * Any constant value which can be assigned to the variable is called literal.
+* 
 
 <br>
 
@@ -131,7 +132,10 @@
 #### Var-Arg Methods
 ---
 
-
+* Until __1.4 version__ we can't declared a method with variable no. Of arguments.
+* If there is a change in no of arguments compulsory we have to define a new method.
+* This approach increases length of the code and reduces readability.
+* But from __1.5 version__ onwards we can declare a method with variable no. of arguments such type of methods are called __var-arg__ methods.
 
 
 
